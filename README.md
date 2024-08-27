@@ -31,7 +31,7 @@ python -m venv venv source venv/bin/activate # On Linux and macOS venv\Scripts\a
 pip install -r requirements.txt
 
 5. Launch the application:
-python crypto_app.py
+python Crypter.py
 
 
 ## Usage Instructions
