@@ -81,5 +81,4 @@ pip freeze > requirements.txt
 The contents might look something like this:
 
 cryptography
-
 pyperclip
